@@ -1,6 +1,6 @@
 # The-Jerry-Filter-
 Path of Exile 2 loot filter with Jelly Hoshiumi SFX
-
+This is just a repackage of Jonn104's filter, which is a repackage of Neversinks filter. All I did was add/edit the SFX with some compression + reverb to give that iconic Jelly experience.
 Instructions:
 1) Go to C:\Users\Whateveryourusername\Documents\My Games\Path of Exile 2
 2) Extract the contents to that folder
