@@ -1,5 +1,5 @@
 # The-Jerry-Filter-
-Path of Exile 2 loot filter with Jelly Hoshiumi SFX
+## _Path of Exile 2 loot filter with Jelly Hoshiumi SFX_
 
 Using NeverSink's Litefilter 0.2.1 now!. All I did was add/edit the SFX with some compression + reverb to give that iconic Jelly experience.
 Instructions:
@@ -7,6 +7,9 @@ Instructions:
 2) Extract the contents to that folder
 
 While In-game go to Options -> Game, and where it says item filter, click the jelly filter. If you're doing it mid game and it won't show, click the reload button next to the drop down list. If that's not showing click the folder button and manually pick the file.
+
+_This is what you're getting:_
+![Screenshot 2024-12-21 132448](https://github.com/user-attachments/assets/658526c7-9425-46d4-9813-cf8c25266708)
 
 Until Neversink gets an actual filter editor going, the best you're going to have in terms of editing these are just downloading a filter that looks nice and replacing the sounds yourself. Honestly its too much of a hassle to update minute things this early in the beta, especially since Neversink's going to program it anyway.
 
