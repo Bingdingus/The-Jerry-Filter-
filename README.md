@@ -6,8 +6,11 @@ Use this instead: https://www.filterblade.xyz/?profile=Trash_Redux&saveState=5OM
 
 Instructions:
 1) Sign in with your steam/PoE accound and just sync and DL.
-2) Click the JellyFilterBladeSounds.zip file and unpack those to: C:\Users\YOURusername\Documents\My Games\Path of Exile 2
-3) If you want to use different sounds there's also the BonusJerrySounds.zip file, just repeat step 2.
+2) Click the <ins>**_JellyFilterBladeSounds.zip_**</ins> file and unpack those to: <ins>C:\Users\YOURusername\Documents\My Games\Path of Exile 2</ins>
+3) If you want to use different sounds there's also the <ins>**_BonusJerrySounds.zip_**</ins> file, just repeat step 2.
+
+
+
 
 
 ~~Using NeverSink's Litefilter 0.2.1 now!. All I did was add/edit the SFX with some compression + reverb to give that iconic Jelly experience.
