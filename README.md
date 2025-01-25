@@ -6,7 +6,7 @@ Filter link for old version: https://www.filterblade.xyz/?profile=Trash_Redux&sa
 
 Instructions to get the sounds to work:
 1) Sign in with your steam/PoE accound and just sync and DL.
-2) Click the <ins>**_JellyFilterBladeSounds.zip_**</ins> file and unpack those to: <ins>C:\Users\YOURusername\Documents\My Games\Path of Exile 2</ins>
+2) Click the  <ins>**_JellyFilterBladeSoundsUPDATED.zip_**</ins> <ins>_(Or JellyFilterBladeSounds.zip if using the old versioin)_</ins> file and unpack those to: <ins>C:\Users\YOURusername\Documents\My Games\Path of Exile 2</ins>
 3) If you want to use different sounds there's also the <ins>**_BonusJerrySounds.zip_**</ins> file, just repeat step 2.
 
 
