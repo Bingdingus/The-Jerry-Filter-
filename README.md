@@ -1,6 +1,8 @@
 # The-Jerry-Filter-
 ## _Path of Exile 2 loot filter with Jelly Hoshiumi SFX_
-Filter Link: https://www.filterblade.xyz/?profile=Trash_Redux&saveState=5OM38CNPPFZR4Q&isPreset=false&game=null
+Filter link for UPDATED version: **https://www.filterblade.xyz/?profile=Trash_Redux&saveState=U3RPPRY1AF1BGL&isPreset=false&game=Poe2**
+
+Filter link for old version: https://www.filterblade.xyz/?profile=Trash_Redux&saveState=5OM38CNPPFZR4Q&isPreset=false&game=null
 
 Instructions to get the sounds to work:
 1) Sign in with your steam/PoE accound and just sync and DL.
